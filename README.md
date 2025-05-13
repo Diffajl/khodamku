@@ -1,16 +1,11 @@
-# khodamku
+# 🔮 Cek Khodam - Flutter App
 
-A new Flutter project.
+**Cek Khodam** adalah aplikasi mobile berbasis Flutter yang memungkinkan pengguna untuk mengetahui potensi khodam atau penjaga spiritual mereka melalui input nama atau data pribadi lainnya. Aplikasi ini bersifat hiburan (entertainment) dan tidak bermaksud untuk menyinggung kepercayaan atau budaya tertentu.
 
-## Getting Started
+## 🚀 Cara Menjalankan
 
-This project is a starting point for a Flutter application.
+### 1. Clone Repository
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/username/cek-khodam-flutter.git
+cd cek-khodam-flutter
